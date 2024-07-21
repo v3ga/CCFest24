@@ -1,5 +1,5 @@
 # CCFest24
-Workshop resources for CC Fest Festival 2024 
+Workshop resources for [CC Fest Festival 2024 ](https://ccfest.rocks/)
 
 ## Presentation
 https://www.v3ga.net/presentation/ccfest24
