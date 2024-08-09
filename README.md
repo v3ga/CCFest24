@@ -3,7 +3,10 @@ Workshop resources for [CC Fest Festival 2024 ](https://ccfest.rocks/)
 
 <img src="CCFest24.jpg" height="500" /><img src="CCFest24_schedule.jpg"  height="500" />
 
-## Presentation
+## The Beauty of Recursion
+Students will get to learn the recursion principle from a graphic and artistic point of view by coding a square partitioning algorithm in p5.js editor. Random parametrisation will be used to create different sets of graphical outputs that might be exported as vector files for printing thanks to p5.js-svg extension. (Intermediate)
+
+### Presentation
 https://www.v3ga.net/presentation/ccfest24
 
 <img src="CCFest24_recursion_animation.gif" />
