@@ -1,4 +1,4 @@
-# CCFest24
+# The beauty of recursion — CCFest24
 Workshop resources for [CC Fest Festival 2024 ](https://ccfest.rocks/)
 
 <img src="CCFest24.jpg" height="500" /><img src="CCFest24_schedule.jpg"  height="500" />
